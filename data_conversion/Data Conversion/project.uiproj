@@ -1,0 +1,6 @@
+{
+  "Name": "Data Conversion",
+  "ProjectType": "Process",
+  "Description": "This ask the user for name and age, calculate year of birth = current year - age, and show a message like \" Hello Sean, You were born in 1995\"",
+  "MainFile": "Main.xaml"
+}
